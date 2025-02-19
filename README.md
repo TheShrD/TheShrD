@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently working on full stack developer course frmae almabetter
+I am currently working on full stack developer course froae almabetter
