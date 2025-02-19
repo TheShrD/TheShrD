@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+How are you looking next to comnnect with you
 <!--
 **TheShrD/TheShrD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am looking for the new repos
+
