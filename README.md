@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I am currently working on full stack developer course from almabetter
 course 
-gjearougiaerjtngl
+gjearougi
